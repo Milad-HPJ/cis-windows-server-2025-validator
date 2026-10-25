@@ -1,0 +1,13 @@
+# Ignore generated CIS HTML validation reports
+*.html
+CIS_Benchmark_Validation_Report*
+
+# Ignore temporary secedit export and log files
+*.cfg
+*.log
+*.tmp
+
+# Ignore OS and editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
