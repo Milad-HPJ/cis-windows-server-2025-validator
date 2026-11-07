@@ -7,7 +7,7 @@
             Audit Policy, and Administrative Templates
 .NOTES
     Version: 1.0
-    Author: AI Assistant
+    Author: Milad Haghpanah Jahromi
     Date: 2026-10-23
     Requires: Administrator privileges
 #>
